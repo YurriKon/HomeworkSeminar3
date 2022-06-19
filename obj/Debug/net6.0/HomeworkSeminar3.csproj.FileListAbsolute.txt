@@ -1,0 +1,15 @@
+D:\GeekBrains\С#\HomeworkSeminar3\obj\Debug\net6.0\HomeworkSeminar3.csproj.AssemblyReference.cache
+D:\GeekBrains\С#\HomeworkSeminar3\obj\Debug\net6.0\HomeworkSeminar3.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\С#\HomeworkSeminar3\obj\Debug\net6.0\HomeworkSeminar3.AssemblyInfoInputs.cache
+D:\GeekBrains\С#\HomeworkSeminar3\obj\Debug\net6.0\HomeworkSeminar3.AssemblyInfo.cs
+D:\GeekBrains\С#\HomeworkSeminar3\obj\Debug\net6.0\HomeworkSeminar3.csproj.CoreCompileInputs.cache
+D:\GeekBrains\С#\HomeworkSeminar3\bin\Debug\net6.0\HomeworkSeminar3.exe
+D:\GeekBrains\С#\HomeworkSeminar3\bin\Debug\net6.0\HomeworkSeminar3.deps.json
+D:\GeekBrains\С#\HomeworkSeminar3\bin\Debug\net6.0\HomeworkSeminar3.runtimeconfig.json
+D:\GeekBrains\С#\HomeworkSeminar3\bin\Debug\net6.0\HomeworkSeminar3.dll
+D:\GeekBrains\С#\HomeworkSeminar3\bin\Debug\net6.0\HomeworkSeminar3.pdb
+D:\GeekBrains\С#\HomeworkSeminar3\obj\Debug\net6.0\HomeworkSeminar3.dll
+D:\GeekBrains\С#\HomeworkSeminar3\obj\Debug\net6.0\refint\HomeworkSeminar3.dll
+D:\GeekBrains\С#\HomeworkSeminar3\obj\Debug\net6.0\HomeworkSeminar3.pdb
+D:\GeekBrains\С#\HomeworkSeminar3\obj\Debug\net6.0\HomeworkSeminar3.genruntimeconfig.cache
+D:\GeekBrains\С#\HomeworkSeminar3\obj\Debug\net6.0\ref\HomeworkSeminar3.dll
